@@ -1,6 +1,5 @@
 # Hulu Clone
 
-### By Anurag Sharan
 
 This is a clone of the Hulu frontend. I have made this using Next JS which is a SSR framework for React. I have also used Tailwind CSS which provides lots of utility classes for CSS.
 
